@@ -26,8 +26,4 @@ These instructions will help you set up the project on your local machine for de
 
 Once the project is set up and running, you can view news articles from various sources on the client side.
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
